@@ -1,0 +1,15 @@
+{
+    "name": "norayr/mini_framework",
+    "autoload": {
+        "classmap": [
+            "core/",
+            "app/"
+        ]
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.3"
+    },
+    "require": {
+        "doctrine/inflector": "^2.0"
+    }
+}
